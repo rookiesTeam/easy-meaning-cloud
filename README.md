@@ -1,11 +1,11 @@
-#EASY-MEANING-CLOUD
+# EASY-MEANING-CLOUD
 Project to make more easy consume meaning cloud api and extract all lemmas.
 
-##Prerequisite
+## Prerequisite
 
 Node is required
 
-##Instructions
+## Instructions
 
 ```
 git clone git@github.com:rookiesTeam/easy-meaning-cloud.git
