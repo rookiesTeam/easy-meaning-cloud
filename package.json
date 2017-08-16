@@ -1,0 +1,26 @@
+{
+  "name": "easy-meaning-cloud",
+  "version": "0.0.1",
+  "description": "The easy way of lemmatization",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rookiesTeam/easy-meaning-cloud.git"
+  },
+  "keywords": [
+    "node",
+    "lemma",
+    "opensource",
+    "meaning",
+    "cloud"
+  ],
+  "author": "Rookies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rookiesTeam/easy-meaning-cloud/issues"
+  },
+  "homepage": "https://github.com/rookiesTeam/easy-meaning-cloud#readme"
+}
